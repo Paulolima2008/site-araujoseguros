@@ -1,0 +1,10 @@
+# Sitemap
+Sitemap: https://araujoseguros.com.br/site/sitemap.xml
+
+#Robo de busca
+User-agent: *
+
+# Indexacao Off
+
+# Indexacao On
+Allow: /
